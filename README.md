@@ -1,5 +1,3 @@
-# Comments about the code
-This is the code for this video series: https://www.youtube.com/watch?v=nAEb1lOf_4o
 
 ## Installing RDKIT
 You will need rdkit to run this code.
