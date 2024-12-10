@@ -52,5 +52,3 @@ mlflow server \
 export MLFLOW_TRACKING_URI=http://localhost:5000
 mlflow models serve -m "models:/YourModelName/Staging" -p 1234
 ```
-
-TODO: Check if multi-input models work for MLFLOW!!!
